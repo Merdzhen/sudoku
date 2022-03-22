@@ -1,8 +1,12 @@
 # Sudoku
 
 I completed part 1 'main logic' of this project during internship in Elbrus Bootcamp.
+
 I also wrote tests in file `spec/sudoku.spec.js` to check myself.
+
 Please set numbers 0 to 4 in file `runner.js` in line 13 (puzzleNumber), and then enter `npm start`.
+
+
 
 Original task text:
 
